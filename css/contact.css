@@ -85,6 +85,7 @@ button:hover {
     font-size: 28px;
     font-weight: 500;
   }
+
   ::placeholder {
     color: white;
     font-size: 15px;
@@ -273,6 +274,7 @@ button:hover {
     outline: 0;
     border: 0;
     padding: 1rem 0.5rem;
+    color: #fff;
   }
 
   .news-section {
